@@ -1,2 +1,2 @@
 # Calculator
-This ia  a simpls calculator
+This is  a simple calculator
